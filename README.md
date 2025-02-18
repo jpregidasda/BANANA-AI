@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="frontend/public/conjure_logo.png" alt="ConjureAI Logo" width="200"/>
+  <img src="./public/logo2.jpeg" alt="ConjureAI Logo" width="200"/>
 
   # BANANA AI- AI Developer Agent Platform
 
