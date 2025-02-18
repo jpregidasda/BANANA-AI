@@ -83,7 +83,7 @@ npm run dev
 
 ### Neo Blackwood - Web Development Specialist
 <div align="center">
-  <img src="frontend/public/web_dev.png" alt="Neo Blackwood" width="150"/>
+  <img src="./public/web_dev.png" alt="Neo Blackwood" width="150"/>
 </div>
 
 - **Version**: 5.1.0
@@ -95,7 +95,7 @@ npm run dev
 
 ### Dave "Bitmap" Wilson - 3D Web Development Expert
 <div align="center">
-  <img src="frontend/public/game_dev.png" alt="Dave Wilson" width="150"/>
+  <img src="./public/game_dev.png" alt="Dave Wilson" width="150"/>
 </div>
 
 - **Version**: 3.8.9
