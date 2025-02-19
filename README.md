@@ -167,10 +167,10 @@ npm run dev
   <a href="https://x.com/aibaibnb">
     <img src="https://img.shields.io/badge/Twitter-Latest_Updates-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter">
   </a>
-  <a href="https://conjureai.gitbook.io/">
+  <a href="https://github.com/jpregidasda/BANANA-AI/blob/main/README.md">
     <img src="https://img.shields.io/badge/GitBook-Documentation-3884FF?style=for-the-badge&logo=gitbook" alt="Documentation">
   </a>
-  <a href="https://pump.fun/coin/H1gbUutzF1gHqbV91MPxk6YkGEDdiFm44iiUWdwMpump">
+  <a href="https://banana-ai-sigma.vercel.app/">
     <img src="https://img.shields.io/badge/Pump.fun-Pump-FF69B4?style=for-the-badge" alt="Pump.fun">
   </a>
 </div>
