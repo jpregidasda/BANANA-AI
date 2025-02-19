@@ -161,10 +161,10 @@ npm run dev
 ## Community & Resources
 
 <div align="center">
-  <a href="https://github.com/utxobro/conjure">
+  <a href="https://github.com/jpregidasda/BANANA-AI">
     <img src="https://img.shields.io/badge/GitHub-Source_Code-2ea44f?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://x.com/conjureai">
+  <a href="https://x.com/aibaibnb">
     <img src="https://img.shields.io/badge/Twitter-Latest_Updates-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter">
   </a>
   <a href="https://conjureai.gitbook.io/">
