@@ -31,8 +31,6 @@
   </h3>
 </div>
 
-## CA
-- $CNJR: H1gbUutzF1gHqbV91MPxk6YkGEDdiFm44iiUWdwMpump
 
 ## Features
 
