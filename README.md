@@ -168,8 +168,8 @@ npm run dev
   <a href="https://github.com/jpregidasda/BANANA-AI/blob/main/README.md">
     <img src="https://img.shields.io/badge/GitBook-Documentation-3884FF?style=for-the-badge&logo=gitbook" alt="Documentation">
   </a>
-  <a href="https://banana-ai-sigma.vercel.app/">
-    <img src="https://img.shields.io/badge/Pump.fun-Pump-FF69B4?style=for-the-badge" alt="Pump.fun">
+  <a href="https://four.meme/token/0xc2e85ecf8824368df1a0871601f2656f380d363a">
+    <img src="https://img.shields.io/badge/Pump.fun-Pump-FF69B4?style=for-the-badge" alt="Four.meme Four">
   </a>
 </div>
 
