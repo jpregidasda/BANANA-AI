@@ -162,7 +162,7 @@ npm run dev
   <a href="https://github.com/jpregidasda/BANANA-AI">
     <img src="https://img.shields.io/badge/GitHub-Source_Code-2ea44f?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://x.com/aibaibnb">
+  <a href="https://x.com/bananai_bnb/">
     <img src="https://img.shields.io/badge/Twitter-Latest_Updates-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter">
   </a>
   <a href="https://github.com/jpregidasda/BANANA-AI/blob/main/README.md">
