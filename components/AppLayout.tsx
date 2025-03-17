@@ -126,10 +126,29 @@ export default function AppLayout({ children }: AppLayoutProps) {
               className="flex items-center p-3 rounded-xl text-gray-300 hover:text-white hover:bg-gradient-to-r hover:from-yellow-500/20 hover:to-orange-500/10 transition-all group">
               <div className="w-10 h-10 flex items-center justify-center relative">
                 <div className="absolute inset-0 bg-gradient-to-br from-yellow-500/20 to-orange-500/20 rounded-lg opacity-0 group-hover:opacity-100 transition-all duration-300 group-hover:scale-110" />
-                <svg className="w-5 h-5 relative z-10 group-hover:scale-110 transition-transform duration-300" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
-                  <path d="M19 3H5C3.89543 3 3 3.89543 3 5V19C3 20.1046 3.89543 21 5 21H19C20.1046 21 21 20.1046 21 19V5C21 3.89543 20.1046 3 19 3Z"/>
-                  <path d="M7 7H17M7 12H17M7 17H13"/>
-                </svg>
+                <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="225.000000pt" height="225.000000pt" viewBox="0 0 225.000000 225.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,225.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M1333 2025 c-41 -18 -51 -33 -134 -221 -39 -88 -73 -161 -76 -164 -2
+-3 -3 60 -1 140 3 125 1 148 -15 171 -33 48 -110 65 -156 33 -39 -28 -49 -70
+-52 -220 -4 -189 -8 -234 -24 -234 -47 0 -115 -109 -171 -277 -61 -181 -1
+-338 163 -429 281 -158 542 -54 643 256 49 149 82 201 192 304 116 107 132
+140 102 202 -42 86 -112 90 -207 12 -39 -32 -48 -37 -36 -18 79 125 103 176
+103 213 -2 75 -93 130 -156 94 l-28 -16 0 47 c0 69 -21 93 -95 115 -11 3 -34
+0 -52 -8z m77 -65 c11 -11 20 -27 20 -36 0 -9 -43 -111 -95 -227 -53 -117 -94
+-221 -93 -232 2 -12 11 -20 22 -20 15 0 47 45 126 178 59 97 115 186 125 197
+23 26 57 25 80 -1 26 -27 19 -43 -105 -244 -84 -136 -100 -168 -90 -180 19
+-23 28 -19 88 33 144 125 204 172 217 172 22 0 55 -37 55 -61 0 -11 -13 -33
+-28 -47 -16 -15 -62 -59 -103 -97 -85 -81 -132 -161 -173 -295 -55 -183 -180
+-291 -340 -292 -83 0 -161 25 -245 80 -143 94 -167 223 -81 432 58 140 100
+189 100 115 0 -38 21 -55 44 -36 10 8 14 71 19 262 4 170 10 255 18 265 16 19
+64 18 84 -3 16 -15 16 -37 10 -223 -6 -182 -5 -207 9 -219 9 -7 22 -11 29 -8
+8 3 60 110 117 239 56 128 109 241 118 251 20 23 47 22 72 -3z"/>
+</g>
+</svg>
               </div>
               <div className="ml-3">
                 <div className="font-medium group-hover:text-yellow-300 transition-colors">Four</div>
