@@ -94,7 +94,7 @@ export default function AppLayout({ children }: AppLayoutProps) {
               </div>
             </a>
 
-            <a href="https://x.com/aibaibnb" target="_blank" rel="noopener noreferrer"
+            <a href="https://x.com/bananai_bnb/" target="_blank" rel="noopener noreferrer"
               className="flex items-center p-3 rounded-xl text-gray-300 hover:text-white hover:bg-gradient-to-r hover:from-yellow-500/20 hover:to-orange-500/10 transition-all group">
               <div className="w-10 h-10 flex items-center justify-center relative">
                 <div className="absolute inset-0 bg-gradient-to-br from-yellow-500/20 to-orange-500/20 rounded-lg opacity-0 group-hover:opacity-100 transition-all duration-300 group-hover:scale-110" />
@@ -120,6 +120,20 @@ export default function AppLayout({ children }: AppLayoutProps) {
               <div className="ml-3">
                 <div className="font-medium group-hover:text-yellow-300 transition-colors">Docs</div>
                 <div className="text-xs text-gray-500 group-hover:text-yellow-400/70 transition-colors">Learn More</div>
+              </div>
+            </a>
+            <a href="https://four.meme/token/0xc2e85ecf8824368df1a0871601f2656f380d363a" target="_blank" rel="noopener noreferrer"
+              className="flex items-center p-3 rounded-xl text-gray-300 hover:text-white hover:bg-gradient-to-r hover:from-yellow-500/20 hover:to-orange-500/10 transition-all group">
+              <div className="w-10 h-10 flex items-center justify-center relative">
+                <div className="absolute inset-0 bg-gradient-to-br from-yellow-500/20 to-orange-500/20 rounded-lg opacity-0 group-hover:opacity-100 transition-all duration-300 group-hover:scale-110" />
+                <svg className="w-5 h-5 relative z-10 group-hover:scale-110 transition-transform duration-300" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
+                  <path d="M19 3H5C3.89543 3 3 3.89543 3 5V19C3 20.1046 3.89543 21 5 21H19C20.1046 21 21 20.1046 21 19V5C21 3.89543 20.1046 3 19 3Z"/>
+                  <path d="M7 7H17M7 12H17M7 17H13"/>
+                </svg>
+              </div>
+              <div className="ml-3">
+                <div className="font-medium group-hover:text-yellow-300 transition-colors">Four</div>
+                <div className="text-xs text-gray-500 group-hover:text-yellow-400/70 transition-colors">Buy now</div>
               </div>
             </a>
           </div>
